@@ -11,7 +11,6 @@ you get a one message about Memory mismatch configuration, deal with it for now.
 whats working 
 * Audio
 * Boot chime (When Enable)
-* Boot Screen 
 * Wifi 
 * Bleutooth
 * Facetime
@@ -20,8 +19,8 @@ whats working
 * Usb 2.0
 * Usb 3.0
 * FileVault
+* Bootcamp
 * HandOff
 * NvRam
-* Shutdown
 * Sleep
 * Wake
