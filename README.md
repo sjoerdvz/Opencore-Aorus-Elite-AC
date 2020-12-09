@@ -6,7 +6,7 @@ The purpose of this EFI is that anyone with the same board can run macOS BigSure
 all onboard hardware are working as normal even integreted wifi and bleutooth.
 
 if you wanna change de configuration plist only use MacPro 7.1 if you want bleutooth keeps working
-you get a one message about Memory mismatch configuration, deal with. you can patch the plist to match all 12 slots but your audio will stop working and the OS will be verry slow because we dont have 12 slots on our mothetboard 
+you get a one message about Memory mismatch configuration, deal with it for now. you can patch the plist to match all 12 slots but your audio will stop working and the OS will be verry slow because we dont have 12 slots on our mothetboard 
 
 whats working 
 * Audio
