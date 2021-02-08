@@ -11,11 +11,17 @@ for RX590 RX580 remove the line "agdpmod=pikera" in NVRam boot-args
 
 Bios Settings *(important)
 *VT-D Disable 
+
 XMP profile Enable
+
 *Above 4G Decoding Enable 
+
 Resize-Bar Enable 
+
 *CFG Lock Disable 
+
 *CSM Disable 
+
 *Secureboot Disable 
 
 whats working 
