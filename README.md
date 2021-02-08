@@ -45,9 +45,9 @@ whats working
 
 Bios Settings *(important)
 
- * VT-D Disable
+ * *VT-D Disable
  * XMP profile Enable
- * Above 4G Decoding Enable
+ * *Above 4G Decoding Enable
  * Resize-Bar Enable
  * CFG Lock Disable
  * CSM Disable
