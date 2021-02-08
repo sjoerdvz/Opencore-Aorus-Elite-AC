@@ -41,20 +41,15 @@ whats working
 
 
 
-Bios Version=F20b
+ Bios Version=F20b
 
 Bios Settings *(important)
 
 *VT-D Disable
 
-XMP profile Enable
-
-*Above 4G Decoding Enable
-
-Resize-Bar Enable
-
-*CFG Lock Disable
-
-*CSM Disable
-
-*Secureboot Disable
+. * XMP profile Enable
+. * Above 4G Decoding Enable
+. * Resize-Bar Enable
+. * CFG Lock Disable
+. * CSM Disable
+. * Secureboot Disable
