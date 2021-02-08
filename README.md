@@ -49,6 +49,6 @@ Bios Settings *(important)
  * XMP profile Enable
  * *Above 4G Decoding Enable
  * Resize-Bar Enable
- * CFG Lock Disable
- * CSM Disable
- * Secureboot Disable
+ * *CFG Lock Disable
+ * *CSM Disable
+ * *Secureboot Disable
