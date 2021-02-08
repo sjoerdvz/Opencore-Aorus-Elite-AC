@@ -10,9 +10,9 @@ if you have a radeon 5600XT 5700XT or similar your ready to go, when using a RX5
 for RX590 RX580 remove the line "agdpmod=pikera" in NVRam boot-args
 
 Fix no network cable error for Ethetnet. 
- * go to network settings. choose left Ethetnet choose advanced.
- * go to hardware settins tab. 
- * Use the following settings. 
+  go to network settings. choose left Ethetnet choose advanced.
+  go to hardware settins tab. 
+  Use the following settings. 
 
  * configure = manually
  * Speed = 1000baseT
