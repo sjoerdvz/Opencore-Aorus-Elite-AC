@@ -17,11 +17,9 @@ go to hardware settins tab.
 
 Use the following settings. 
 
-configure = manually
-
-Speed = 1000baseT
-
-Duplex Full duplex 
+ * configure = manually
+ * Speed = 1000baseT
+ * Duplex Full duplex 
 
 
 
