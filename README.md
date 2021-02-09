@@ -10,7 +10,8 @@ if you have a radeon 5600XT 5700XT or similar your ready to go, when using a RX5
 for RX590 RX580 remove the line "agdpmod=pikera" in NVRam boot-args
 
 i have romoved some unnecessary bios patches because we can disable this all in the bios settings. 
-this result is faster and stable system, but you need set the bios settings cerrectly otherwise it wont boot. 
+this result is faster and stable system, but you need set the bios settings cerrectly otherwise it wont boot.
+if you want a dualboot system with windows,i have disable ACPI patching that prevent OC from injecting ACPI values 
 
 Fix no network cable error for Ethetnet. 
   go to network settings. choose left Ethetnet choose advanced.
