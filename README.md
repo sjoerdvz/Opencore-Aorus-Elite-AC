@@ -7,7 +7,9 @@ all onboard hardware are working as normal even integreted wifi and bleutooth.
 
 Default plist is now set to imac 20,1
 i have created a serial to start. but you need to make your own and Mac Adres also
-you can use latest opencore configurator tool from the web. its easy to use for this. 
+you can use latest opencore configurator tool from the web, its easy to use for this.
+
+
 if you have a radeon 5600XT 5700XT or similar your ready to go, when using a RX590 RX580 you need to make chage to the config.plist.
 for RX590 RX580 remove the line "agdpmod=pikera" in NVRam boot-args
 
