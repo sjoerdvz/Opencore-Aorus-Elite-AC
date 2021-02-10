@@ -9,7 +9,7 @@ Default plist is now set to imac 20,1
 i have created a serial to start. but you need to make your own and Mac Adres also
 you can use latest opencore configurator tool from the web, its easy to use for this.
 follow Dortania's opencore guide for this its verry easy 
-[url]https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo/url]
+https://dortania.github.io/OpenCore-Install-Guide/config.plist/comet-lake.html#platforminfo/
 
 
 if you have a radeon 5600XT 5700XT or similar your ready to go, when using a RX590 RX580 you need to make chage to the config.plist.
