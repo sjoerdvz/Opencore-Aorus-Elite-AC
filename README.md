@@ -42,6 +42,7 @@ Bios Settings (important)
  * Windows 8/10 Features set to window 10 for dualboot systems. if not use OthetOS
  
  Optional you can use my bios from repo, it will boot with a blackscreen to open core 
+ 
 [https://github.com/sjoerdvz/Gigabyte-Z490-Aorus-Elite-AC-Bios.git]
 
 whats working 
