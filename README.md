@@ -49,7 +49,7 @@ whats working
 * Audio
 * Boot chime (When Enable)
 * Onboard Wifi 
-* Onboard Bleutooth
+* Onboard Bluetooth
 * Facetime
 * iMessage
 * Network
