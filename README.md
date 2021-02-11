@@ -3,7 +3,7 @@ OpenCore Gigabyte Z490 Aorus Elite AC
 
 opencore 0.6.6 bootloader for gigabyte z490 Aorus Elite AC.
 The purpose of this EFI is that anyone with the same board can run macOS BigSure without any problems without worrying about configurations.
-all onboard hardware are working as normal even integreted wifi and bleutooth.
+all onboard hardware are working as normal even integreted wifi and bluetooth.
 
 Default plist is now set to imac 20,1
 i have created a serial to start. but you need to make your own and Mac Adres also
