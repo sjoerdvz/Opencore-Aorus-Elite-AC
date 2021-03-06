@@ -20,6 +20,9 @@ i have romoved some unnecessary bios patches because we can disable this all in 
 this result is faster and stable system, but you need set the bios settings cerrectly otherwise it wont boot.
 if you want a dualboot system with windows,i have disable ACPI patching that prevent OC from injecting ACPI values 
 
+To Enable Wifi use Heliport app easy way
+if you want wifi while installing or configuration macos on first time. you need to set your SSID and PASS in config.plist from "itlwm.kext" in Kext folder modify the file using xcode.
+
 Fix no network cable error for Ethetnet. 
   go to network settings. choose left Ethetnet choose advanced.
   go to hardware settins tab. 
@@ -29,9 +32,6 @@ Fix no network cable error for Ethetnet.
  * Speed = 1000baseT
  * Duplex Full duplex 
  
-To Enable Wifi use Heliport app easy way
-if you want wifi while installing or configuration macos on first time. you need to set your SSID and PASS in config.plist from"itlwm.kext" modify the file using xcode.
-
 Bios Version=F20b
 
 Bios Settings (important)
