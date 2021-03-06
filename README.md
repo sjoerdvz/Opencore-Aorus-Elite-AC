@@ -7,7 +7,9 @@ all onboard hardware are working as normal even integreted wifi and bluetooth.
 
 before use make sure you make some changes.
 if you have the onboard intel uhd 630 you ready to boot and use
+
 For RX580 remove boot-args "igfxonln=1"
+
 for 5600XT add boot-args "agdpmod=pikera"
 
 system plist is macpro 7.1
