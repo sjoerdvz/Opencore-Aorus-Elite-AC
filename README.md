@@ -26,7 +26,7 @@ Modify itlwm.kext/config.plist/IOKitPersonalities/itlwm/WiFiConfig for SSID and 
 Fix no network cable error for Ethetnet. 
   go to network settings. choose left Ethetnet choose advanced.
   go to hardware settins tab. 
-  Use the following settings. 
+  Use the following settings.  
  * configure = manually
  * Speed = 1000baseT
  * Duplex Full duplex 
