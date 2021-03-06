@@ -32,9 +32,8 @@ Fix no network cable error for Ethetnet.
  * Speed = 1000baseT
  * Duplex Full duplex 
  
-Bios Version=F20b
-
-Bios Settings (important)
+Bios Version=F20b.  
+Bios Settings (important)  
  * VT-D Disable.       
  * XMP profile Enable (if supported).    
  * Above 4G Decoding Enable.  
