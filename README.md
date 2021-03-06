@@ -41,7 +41,7 @@ Bios Settings (important)
  * CFG Lock Disable.  
  * CSM Disable.   
  * Secureboot Disable.  
- * Windows Features set to window for dualboot systems. if not use OtherOS.  
+ * Windows Features set to window for Dualboot systems. if you not use windows 10 choose OtherOS.  
  * Optional you can use my bios from repo, it will boot with a blackscreen to open core.   
  [https://github.com/sjoerdvz/Gigabyte-Z490-Aorus-Elite-AC-Bios.git]
 
