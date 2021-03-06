@@ -50,6 +50,7 @@ whats working
 * Boot chime (When Enable)
 * Onboard Wifi 
 * Onboard Bluetooth
+* Airdrop
 * Facetime
 * iMessage
 * Network
