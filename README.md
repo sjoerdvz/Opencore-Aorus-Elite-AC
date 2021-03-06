@@ -35,18 +35,16 @@ Fix no network cable error for Ethetnet.
 Bios Version=F20b
 
 Bios Settings (important)
- * VT-D Disable
- * XMP profile Enable (if supported)
- * Above 4G Decoding Enable
- * Resize-Bar Enable (only for 5600XT 5700XT)
- * CFG Lock Disable
- * CSM Disable
- * Secureboot Disable
- * Windows 8/10 Features set to window 10 for dualboot systems. if not use OtherOS
- 
- * Optional you can use my bios from repo, it will boot with a blackscreen to open core 
- 
-[https://github.com/sjoerdvz/Gigabyte-Z490-Aorus-Elite-AC-Bios.git]
+ * VT-D Disable.       
+ * XMP profile Enable (if supported).    
+ * Above 4G Decoding Enable.  
+ * Resize-Bar Enable (only for 5600XT 5700XT).  
+ * CFG Lock Disable.  
+ * CSM Disable.   
+ * Secureboot Disable.  
+ * Windows 8/10 Features set to window 10 for dualboot systems. if not use OtherOS.  
+ * Optional you can use my bios from repo, it will boot with a blackscreen to open core.   
+ [https://github.com/sjoerdvz/Gigabyte-Z490-Aorus-Elite-AC-Bios.git]
 
 whats working 
 * Audio
