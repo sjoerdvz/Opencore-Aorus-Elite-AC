@@ -47,10 +47,11 @@ Bios Settings (important)
 
 whats working 
 * Audio
-* Boot chime (When Enable)
 * Onboard Wifi 
 * Onboard Bluetooth
 * Airdrop
+* incoming en outgoing calls from iphone working
+* Bluetooth Accessoires working
 * Facetime
 * iMessage
 * Network
@@ -62,3 +63,5 @@ whats working
 * NvRam
 * Sleep
 * Wake
+
+
