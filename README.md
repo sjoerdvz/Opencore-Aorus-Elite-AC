@@ -12,9 +12,8 @@ for 5600XT add boot-args "agdpmod=pikera".
 
 system plist is macpro 7.1
 incl memory module mismatch configuration fix. you need to have 16gb ram installed.
-
 To match your ram modules type,speed,serial use dmicode to get your Ram info.
-https://dortania.github.io/OpenCore-Post-Install/universal/memory.html
+https://dortania.github.io/OpenCore-Post-Install/universal/memory.html. 
 
 i have romoved some unnecessary bios patches because we can disable this all in the bios settings. 
 this result is faster and stable system, but you need set the bios settings cerrectly otherwise it wont boot.
