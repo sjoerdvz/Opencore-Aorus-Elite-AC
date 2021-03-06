@@ -13,7 +13,7 @@ for 5600XT add boot-args "agdpmod=pikera".
 
 system plist is macpro 7.1
 incl memory module mismatch configuration fix. you need to have 16gb ram installed or make some changes to plist
-on platformInfo/memory, set to match your ram memory modules speed and size.
+on platformInfo/memory, to match your ram memory modules speed and size.
 
 i have romoved some unnecessary bios patches because we can disable this all in the bios settings. 
 this result is faster and stable system, but you need set the bios settings cerrectly otherwise it wont boot.
@@ -24,7 +24,7 @@ if you want wifi while installing or configuration macos on first time. you need
 Modify itlwm.kext/config.plist/IOKitPersonalities/itlwm/WiFiConfig for SSID and Pass
 
 Fix no network cable error for Ethetnet. 
-  go to network settings. choose left Ethetnet choose advanced.
+  go to network settings. choose left Ethernet choose advanced.
   go to hardware settins tab. 
   Use the following settings.  
  * configure = manually
