@@ -21,7 +21,8 @@ this result is faster and stable system, but you need set the bios settings cerr
 if you want a dualboot system with windows,i have disable ACPI patching that prevent OC from injecting ACPI values 
 
 To Enable Wifi use Heliport app easy way.                      
-if you want wifi while installing or configuration macos on first time. you need to set your SSID and PASS in config.plist from "itlwm.kext" in Kext folder modify the file using xcode.
+if you want wifi while installing or configuration macos on first time. you need to set your SSID and PASS in config.plist from "itlwm.kext" in Kext folder modify the file using xcode.    
+Modify itlwm.kext/config.plist/IOKitPersonalities/itlwm/WiFiConfig for SSID and Pass
 
 Fix no network cable error for Ethetnet. 
   go to network settings. choose left Ethetnet choose advanced.
