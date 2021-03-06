@@ -28,6 +28,9 @@ Fix no network cable error for Ethetnet.
  * configure = manually
  * Speed = 1000baseT
  * Duplex Full duplex 
+ 
+To Enable Wifi use Heliport app easy way
+if you want wifi while installing or configuration macos on first time. you need to set your SSID and PASS in config.plist from"itlwm.kext" modify the file using xcode.
 
 Bios Version=F20b
 
